@@ -1,4 +1,3 @@
 # rhs-field-buddysolutions
 
-Initial setup from GitHub Codespaces.
-git status
+Initial setup from Codespaces.
